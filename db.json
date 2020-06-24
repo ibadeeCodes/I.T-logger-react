@@ -1,0 +1,19 @@
+{
+  "logs": [
+    {
+      "message": "bro",
+      "attention": true,
+      "tech": "Williamson",
+      "date": "2020-06-23T21:41:07.309Z",
+      "id": 9
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "date": "2020-06-24T06:00:54.783Z",
+      "id": 8
+    }
+  ]
+}
